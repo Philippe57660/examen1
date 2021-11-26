@@ -18,5 +18,5 @@ tâche 3-En tant que vendeur, je veux visualiser l'état d'avancement de ma vent
 	
 tâche 4-En tant que conseiller, je veux renseigner les visites programmées pour un bien afin de tenir le vendeur au courant
 	ajout d'une table 'visite', envoi de mail au vendeur pour lui indiquer l'ajout de la visite programmée
-	<- difficulté : 6/10, temps : 12 heures
+	<- difficulté : 6/10, temps : 12 heures 
 " 
