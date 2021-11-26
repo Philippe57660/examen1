@@ -5,7 +5,7 @@ SPRINT 1 :
 tâche 1-En tant qu'administrateur je veux créer de nouveaux utilisateurs
 	Création d'interface admin avec ajout d'utilisateur et d'une table "users" avec les champs nom, prénom, adresse mail, mdp 
 	Création d'une table admin pour effectuer une connexion, pour y acceder
-	<- difficulté : 1/10, temps : 2 heure
+	<- difficulté : 2/10, temps : 2 heures
 	
 tâche 2-En tant que conseiller, je veux pouvoir me connecter à mon espace sécurisé
 	Création de page de connexion avec adresse mail et MDP crypté 
